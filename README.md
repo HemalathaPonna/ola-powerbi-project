@@ -1,6 +1,4 @@
-Here's a complete professional `README.md` for your **Ola Data Analytics Project** — structured like a portfolio project and ready to use on GitHub:
 
----
 
 # 🚕 Ola Data Analytics End-to-End Project
 
@@ -54,6 +52,8 @@ The dashboard includes:
 🖼️ [Click to View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=bdeb8ae6-0519-4f08-af83-8f2bd3badc6c&autoAuth=true&ctid=ff335ba2-bb68-489a-bbdd-f49ab4319838)
 
 ---
+![WhatsApp Image 2025-04-18 at 11 20 35_b91ebbfa](https://github.com/user-attachments/assets/b10b60a9-bc8f-463c-9f27-7bcf68f8910f)
+
 
 ## ✅ Outcomes & Learnings
 
